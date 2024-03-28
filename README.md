@@ -11,3 +11,13 @@
  [0.00000000e+00 1.70245148e+03 4.85183754e+02]<br>
  [0.00000000e+00 0.00000000e+00 1.00000000e+00]]<br>
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.12038199, -0.19289355, -0.02137884,  0.0073491,   0.1622757 ]
+
+<br><br><br>
+
+- 렌즈 왜곡 보정 수행 (사용 코드 : distortion_correction.py)
+<br>
+[렌즈 왜곡 보정된 화면]
+![distortion](https://github.com/HLife15/CV_Chess_Board/assets/162321808/0fad8891-0d1c-4713-9c02-2b8b89d217c4)
+<br><br>
+[TAB키를 눌러 렌즈 왜곡 보정 해제한 화면]
+![original](https://github.com/HLife15/CV_Chess_Board/assets/162321808/b8a6d0e4-2f4c-4561-bd44-be8136bf776e)
